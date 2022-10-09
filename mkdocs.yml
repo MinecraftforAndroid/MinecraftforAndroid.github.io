@@ -4,6 +4,7 @@ theme:
   language: zh
   features:
     - navigation.instant
+    - content.tabs.link
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
