@@ -29,6 +29,7 @@ edit_uri: edit/main/docs/
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
+  - search
 markdown_extensions:
   - attr_list
   - pymdownx.superfences
