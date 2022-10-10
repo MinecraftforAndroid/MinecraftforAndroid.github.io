@@ -5,6 +5,7 @@ theme:
   features:
     - navigation.instant
     - content.tabs.link
+    - navigation.top
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
