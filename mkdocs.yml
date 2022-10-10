@@ -22,7 +22,7 @@ theme:
         name: Switch to system preference
 extra:
   generator: false
-repo_url: https://github.com/xiaoioi/mkdocs-githubActions
+repo_url: https://github.com/MinecraftforAndroid/MinecraftforAndroid.github.io
 edit_uri: edit/main/docs/
 plugins:
   - git-revision-date-localized:
