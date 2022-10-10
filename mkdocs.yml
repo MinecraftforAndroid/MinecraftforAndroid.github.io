@@ -1,6 +1,8 @@
 site_name: Minecraft Android版本库
 theme:
   name: material
+  logo: https://s1.328888.xyz/2022/10/10/gyRIm.png
+  favicon: https://s1.328888.xyz/2022/10/10/gyRIm.png
   language: zh
   features:
     - navigation.instant
